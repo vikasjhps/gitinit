@@ -4,7 +4,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>gitDemo</artifactId>
-  <version>0.0.1-SNAPSHOTdevlksvh </version>
+  <version>0.0.1-SNAPSHOTdevlksvh    devv </version>
   <packaging>jar</packaging>
   <name>gitDemo</name>
   <url>http://maven.apache.org</url>
